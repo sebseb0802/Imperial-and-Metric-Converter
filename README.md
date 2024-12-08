@@ -1,4 +1,4 @@
-# Imperial and Metric Converter
+# imperial-and-metric-converter
 
 ## Overview
 
